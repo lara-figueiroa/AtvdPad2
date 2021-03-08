@@ -1,0 +1,1 @@
+# Esse arquivo foi criado para resolver o problema de que não pode fazer fork de um repositório vázio.
